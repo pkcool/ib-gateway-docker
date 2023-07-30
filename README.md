@@ -1,6 +1,6 @@
 # Interactive Brokers Gateway Docker
 
-<img src="https://github.com/UnusualAlpha/ib-gateway-docker/blob/master/logo.png" height="300" />
+<img src="https://github.com/pkcool/ib-gateway-docker/blob/master/logo.png" height="300" />
 
 ## What is it?
 
